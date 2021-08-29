@@ -1,0 +1,13 @@
+.tabContent {
+    border-right: 0.5px solid #dee2e6;
+    overflow: auto;
+    flex-grow: 1;
+}
+
+.idscreen {
+    border-right: 0.5px solid #dee2e6;
+}
+
+.buttonNewContactModal{
+    margin-top: 10px;
+}
